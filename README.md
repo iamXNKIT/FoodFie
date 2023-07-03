@@ -1,4 +1,4 @@
-#FoodFie - Food Ordering App
+<h1>FoodFie - Food Ordering App</h1>
 FoodFie is a user-friendly Android app built in Kotlin that allows users to conveniently order food from various restaurants. The app utilizes SQLite, Volley, and SharedPreferences to provide a seamless experience.
 
 #How It Works
